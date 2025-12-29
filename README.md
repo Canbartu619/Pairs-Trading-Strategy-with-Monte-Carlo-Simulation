@@ -41,11 +41,11 @@ The project follows a Quantitative Research workflow:
 
 ### 1. Simulated Paired Assets
 *Demonstrating the "Random Walk" nature of individual assets.*
-![Simulated Assets](images/Simulated_Assets.png)
+![Simulated Assets](images/simulated_assets.png)
 
 ### 2. Trading Signals (Z-Score Analysis)
 *Visualizing the mean-reverting spread and algorithmic entry/exit points.*
-![Trading Signals](images/Pairs_Trading_Signals.png)
+![Trading Signals](images/pairs_trading_signals.png)
 
 ---
 
